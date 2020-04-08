@@ -3,7 +3,7 @@ title: BI Oslo
 host-organisation: BI Norwegian Business School
 host-org-url: https://www.bi.edu/
 osf: 37cf8
-zotero: 5916296
+zotero: KGT7CE5J
 website: 
 twitter: BIOsloTea
 signup: 
